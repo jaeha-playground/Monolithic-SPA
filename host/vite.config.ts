@@ -9,7 +9,7 @@ export default defineConfig({
     federation({
       name: 'host-app',
       remotes: {
-        remoteApp: 'http://localhost:5001/dist/assets/remoteEntry.js',
+        drive: 'http://localhost:5001/dist/assets/remoteEntry.js',
       },
       shared: ['react', 'react-dom'],
     }),

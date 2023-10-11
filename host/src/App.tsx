@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 // import Button from '../../remote/src/components/Button';
-import Button from 'remoteApp/Button';
+import Button from 'drive/Button';
 
 function App() {
   const [count, setCount] = useState(0);

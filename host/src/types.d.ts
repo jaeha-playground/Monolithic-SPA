@@ -1,1 +1,1 @@
-declare module 'remoteApp/Button';
+declare module 'drive/Button';
